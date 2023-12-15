@@ -1,0 +1,46 @@
+.darkcolor{
+    background-color: rgb(157, 184, 147) !important;
+}
+h1{
+    font-family: Tahoma, sans-serif;
+    color:rgb(40, 38, 38)
+}
+.text-primary{
+    color:rgb(107, 130, 101) !important;
+}
+a[href="mailto:ashaylay@byu.edu"]{
+    font-family: Geneva;
+    text-transform: none;
+    color: rgb(80, 78, 78)
+ }
+ span.d-block.d-lg-none{
+    font-family: Geneva;
+  }
+div.subheading.mb-5 {
+    font-family: Geneva;
+    color:rgb(80, 78, 78);
+    font-size: medium;
+}
+h2{
+    font-family: Geneva;
+}
+.nav-link{
+    font-weight:500;
+    font-family: Geneva;
+}
+h3{
+    font-family: Verdana;
+    font-size:x-large
+}
+.paragraphs{
+    line-height: 1 !important;
+}
+
+.container-fluid {
+    height: 500px !important;
+  }
+.resume-section-content .byu-image {
+    width: 200px;
+    height: 200px;
+    margin-top: 40px;
+  }
