@@ -1,0 +1,41 @@
+body{
+    background-color:rgb(197, 239, 250);
+    margin-left: 40px;
+    margin-right: 40px;
+}
+a{
+    color:black
+}
+a:visited{
+    color:blue
+}
+.my-div .header{
+    color: rgb(92, 159, 179);
+    font-family: Tahoma;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 10px;
+    background-color:aliceblue;
+}
+.description .section-name{
+    font-family: Geneva;
+    font-weight:bolder;
+    text-transform:uppercase;
+    text-align:center
+}
+.description p {
+    font-family: Georgia;
+}
+.nav{
+    float: right;
+}
+.pet-pic{
+    display:flex;
+    justify-content: center;
+}
+.pet-pic img{
+    margin-right: 50px;
+}
+.vid{
+    text-align: center;
+}
